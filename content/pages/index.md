@@ -94,6 +94,6 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Planty theme
     - name: 'twitter:image'
-      value: images/header.jpg
+      value: /_static/app-assets/2021-01-05%2012.09.04.jpg
       relativeUrl: true
 ---
