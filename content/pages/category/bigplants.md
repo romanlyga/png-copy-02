@@ -3,7 +3,7 @@ title: Big
 layout: category
 order: 1
 seo:
-  title: Big plants
+  title: My plants
   description: This is the store page
   extra:
     - name: 'og:type'
