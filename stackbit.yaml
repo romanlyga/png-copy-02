@@ -619,3 +619,4 @@ models:
       - name: string
         type: string
         readOnly: true
+        hidden: true
