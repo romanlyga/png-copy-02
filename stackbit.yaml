@@ -616,5 +616,5 @@ models:
     label: name123
     layout: name123
     fields:
-      - name: ''
+      - name: string
         type: string
