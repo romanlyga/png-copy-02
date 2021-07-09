@@ -611,7 +611,7 @@ models:
             - type: boolean
               name: relativeUrl
               label: Relative Url
-  name123:
+  mypage:
     type: page
     label: name123
     layout: name123
