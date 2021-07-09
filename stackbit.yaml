@@ -618,3 +618,4 @@ models:
     fields:
       - name: string
         type: string
+        readOnly: true
