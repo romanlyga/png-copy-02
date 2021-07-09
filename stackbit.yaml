@@ -133,7 +133,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-  advanced1:
+  advanced:
     type: page
     label: Advanced Page
     hideContent: true
