@@ -615,3 +615,6 @@ models:
     type: page
     label: name123
     layout: name123
+    fields:
+      - name: ''
+        type: string
