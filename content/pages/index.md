@@ -18,19 +18,7 @@ sections:
         arrow: true
         style: primary
   - section_id: lorem-ipsum
-    questions:
-      - question: lorem-ipsum
-        answer: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+    questions: []
     type: faq_section
   - type: featured_products_section
     section_id: best_sellers_section
