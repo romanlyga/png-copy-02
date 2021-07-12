@@ -17,6 +17,9 @@ sections:
         url: /store
         arrow: true
         style: primary
+  - section_id: lorem-ipsum
+    questions: []
+    type: faq_section
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
